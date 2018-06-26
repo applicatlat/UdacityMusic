@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Udacity Music - Home</string>
+    <string name="wishList">Wish List</string>
+    <string name="myAccount">My Account</string>
+    <string name="buyMusic">Buy Music</string>
+    <string name="playList">Play List</string>
+    <string name="accountType">Account Type:</string>
+    <string name="accountTypeChanged">Udacity Premium Account</string>
+    <string name="creditAmount">Credit Amount:</string>
+    <string name="userName">User Name:</string>
+    <string name="error">Show This In Case of Error</string>
+    <string name="ownedSongs">Songs Owned:</string>
+    <string name="typeUser">Type Your Username:</string>
+    <string name="typeUserHere">Type Here</string>
+    <string name="accountTypeChoose">Choose Your Account Type:</string>
+    <string name="verifyMain">I approve</string>
+    <string name="platinum">Platinum</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="bronze">Bronze</string>
+    <string name="signUp">Sign Up</string>
+    <string name="hello">Hello</string>
+    <string name="album">Album:</string>
+    <string name="artist">Artist:</string>
+    <string name="song">Song:</string>
+    <string name="price">Price:</string>
+    <string name="welcomer">Congratulations. You logged in successfully. Now you are free to buy and listen music from Udacity Music App. You can see you your detailed account information by clicking</string>
+    <string name="firstLogin">Hello! This is your first usage of this app. Please sign up to continue.</string>
+
+
+</resources>
